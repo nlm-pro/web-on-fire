@@ -3,14 +3,14 @@
 <p align="center">A <a href="https://wof.show" rel="nofollow"><strong>WoF</strong> Show</a> by Noël Macé.</p>
 
 > This project is part of the [Web on FIRE](https://wof.show) project. \
-> Go check the associated [monorepo](https://github.com/noelmace/web-on-fire) for more information.
+> Go check the associated [monorepo](https://githuib.com/nlm-pro/web-on-fire) for more information.
 
 During this codelab, you’ll create a fully offline-capable, data-driven Progressive Web App with state of the art modern capabilities.
 
 - **:man_technologist: instructions: on [next.wof.show](https://next.wof.show/codelabs/doc/modern-data-driven)**
 - **:man_teacher: Slides: [conf.wof.show](https://conf.wof.show)**
-- **:book: Notes: [noelmace/slides-wof-conf > notes.md](https://github.com/noelmace/slides-wof-conf/blob/master/src/notes.md)**
-- **:house: Home: [noelmace/web-on-fire](https://github.com/noelmace/web-on-fire)**
+- **:book: Notes: [nlm-pro/slides-wof-conf > notes.md](https://githuib.com/nlm-pro/slides-wof-conf/blob/master/src/notes.md)**
+- **:house: Home: [nlm-pro/web-on-fire](https://githuib.com/nlm-pro/web-on-fire)**
 
 ## Getting started
 
@@ -49,7 +49,7 @@ git apply steps/<long-step-name>.patch
 * [Background Sync](https://developers.google.com/web/updates/2015/12/background-sync)
 * [Workbox codelab](https://codelabs.developers.google.com/codelabs/workbox-lab/#0)
 * [PWA training materials](https://developers.google.com/web/ilt/pwa/)
-* [WoF Conference - Notes (with links to other resources)](https://github.com/noelmace/slides-wof-conf/blob/master/src/notes.md)
+* [WoF Conference - Notes (with links to other resources)](https://githuib.com/nlm-pro/slides-wof-conf/blob/master/src/notes.md)
 
 ## License
 

@@ -13,11 +13,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/noelmace/web-on-fire.git"
+    "url": "git://githuib.com/nlm-pro/web-on-fire.git"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/noelmace/web-on-fire/issues"
+    "url": "https://githuib.com/nlm-pro/web-on-fire/issues"
   },
   "scripts": {
     "postinstall": "lerna bootstrap",

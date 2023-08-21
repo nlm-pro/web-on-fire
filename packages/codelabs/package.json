@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noelmace/web-on-fire.git"
+    "url": "git+https://githuib.com/nlm-pro/web-on-fire.git"
   },
   "author": "Noel Macé",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noelmace/web-on-fire/issues"
+    "url": "https://githuib.com/nlm-pro/web-on-fire/issues"
   },
-  "homepage": "https://github.com/noelmace/web-on-fire#readme",
+  "homepage": "https://githuib.com/nlm-pro/web-on-fire#readme",
   "devDependencies": {
     "@github/clipboard-copy-element": "^1.1.2",
     "@types/cheerio": "^0.22.13",
