@@ -4,7 +4,7 @@ set -e
 # inspired by https://github.com/xedi/action-subtree-sync
 
 PACKAGES=('packages/data-driven-pwa')
-REPOS=('noelmace/data-driven-pwa')
+REPOS=('nlm-pro/data-driven-pwa')
 
 NBR_PACKAGES=${#PACKAGES[@]}
 NBR_REPOS=${#REPOS[@]}

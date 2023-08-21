@@ -15,7 +15,7 @@ module.exports = {
     logo: '/favicon/icon-384x384.png',
     displayAllHeaders: false,
     sidebarDepth: 2,
-    repo: 'noelmace/web-on-fire',
+    repo: 'nlm-pro/web-on-fire',
     docsDir: 'docs',
     editLinks: true,
     locales: {
@@ -108,7 +108,7 @@ module.exports = {
       {
         property: 'og:image',
         content:
-          'https://raw.githubusercontent.com/noelmace/web-on-fire/master/docs/.vuepress/public/favicon/icon-384x384.png',
+          'https://raw.githubusercontent.com/nlm-pro/web-on-fire/master/docs/.vuepress/public/favicon/icon-384x384.png',
       },
     ],
     ['meta', { property: 'og:site_name', content: 'WoF.Show' }],

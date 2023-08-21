@@ -13,13 +13,12 @@ The FIRE safety kit for everyone!
 
 Learn the best new capabilities of the modern web without burning out!
 
-[![Stay tuned on Twitter!](https://img.shields.io/twitter/follow/noel_mace?style=social&label=stay%20tuned%21)](https://twitter.com/intent/follow?screen_name=noel_mace)
 [![Website](https://img.shields.io/website?up_message=wof.show&url=https%3A%2F%2Fwof.show)](https://wof.show)
 [![Next Website](https://img.shields.io/website?up_message=next.wof.show&url=https%3A%2F%2Fnext.wof.show&label=next%20website)](https://next.wof.show)
 
-[![release](https://img.shields.io/github/v/tag/noelmace/web-on-fire?sort=semver&include_prereleases&label=release)](https://github.com/noelmace/web-on-fire/blob/master/CHANGELOG.md)
-[![Deploy](https://github.com/noelmace/web-on-fire/workflows/Deploy/badge.svg)](https://github.com/noelmace/web-on-fire/actions?query=workflow%3ADeploy)
-[![Release Subtrees](https://github.com/noelmace/web-on-fire/workflows/Release%20Subtrees/badge.svg)](https://github.com/noelmace/web-on-fire/actions?query=workflow%3A%22Release+Subtrees%22)
+[![release](https://img.shields.io/github/v/tag/nlm-pro/web-on-fire?sort=semver&include_prereleases&label=release)](https://githuib.com/nlm-pro/web-on-fire/blob/master/CHANGELOG.md)
+[![Deploy](https://githuib.com/nlm-pro/web-on-fire/workflows/Deploy/badge.svg)](https://githuib.com/nlm-pro/web-on-fire/actions?query=workflow%3ADeploy)
+[![Release Subtrees](https://githuib.com/nlm-pro/web-on-fire/workflows/Release%20Subtrees/badge.svg)](https://githuib.com/nlm-pro/web-on-fire/actions?query=workflow%3A%22Release+Subtrees%22)
 
 ![Hendrix burn guitare](https://media.giphy.com/media/SpZEbPjQTTKZa/giphy.gif)]
 
@@ -47,11 +46,11 @@ Feel free to suggest modifications by clicking on the "Edit page" link that you 
 
 - **WoF Conf**: Web of F.I.R.E. conference edition
   - :man_teacher: [conf.wof.show](conf.wof.show)
-  - :man_technologist: :octocat:/[noelmace/slides-wof-conf](https://github.com/noelmace/slides-wof-conf)
+  - :man_technologist: :octocat:/[nlm-pro/slides-wof-conf](https://githuib.com/nlm-pro/slides-wof-conf)
   - made with [**deckdeckgo**](http://deckdeckgo.com/)
 - **modern-vanilla**: Brace Yourself, :icecream: Vanilla is coming ... back :sunglasses:!
   - :man_teacher: [modern-vanilla.wof.show](https://modern-vanilla.wof.show)
-  - :man_technologist: :octocat:/[noelmace/slides-modern-vanilla](https://github.com/noelmace/slides-modern-vanilla)
+  - :man_technologist: :octocat:/[nlm-pro/slides-modern-vanilla](https://githuib.com/nlm-pro/slides-modern-vanilla)
   - made with [**deckdeckgo**](http://deckdeckgo.com/)
 - **reveal**: (deprecated) slides made with RevealJS
   - :man_teacher: [next.wof.show](http://next.wof.show/slides/reveal/)
@@ -65,14 +64,14 @@ Feel free to suggest modifications by clicking on the "Edit page" link that you 
 
 ## Experiments/Demos
 
-- [**devcards**](https://github.com/noelmace/devcards): Vanilla & Web Components
-- [**people**](https://github.com/noelmace/prpl-demo): some old demos, including a P.R.P.L. one from my talk [_PRPL: it's time to join these fantastic four!_](https://reveal.wof.show/BoW-PRPL-2019.html#/)
+- [**devcards**](https://githuib.com/nlm-pro/devcards): Vanilla & Web Components
+- [**people**](https://githuib.com/nlm-pro/prpl-demo): some old demos, including a P.R.P.L. one from my talk [_PRPL: it's time to join these fantastic four!_](https://reveal.wof.show/BoW-PRPL-2019.html#/)
 
 ## Other Websites
 
-- [**console**](https://github.com/noelmace/wofshow-console): [console.wof.show](https://console.wof.show) the Wof.Show "console" web app
-- [**abstracts**](https://github.com/noelmace/abstracts): talks abstracts
-- [**www**](https://github.com/noelmace/wwwof): [wof.show](https://wof.show) home page
+- [**console**](https://githuib.com/nlm-pro/wofshow-console): [console.wof.show](https://console.wof.show) the Wof.Show "console" web app
+- [**abstracts**](https://githuib.com/nlm-pro/abstracts): talks abstracts
+- [**www**](https://githuib.com/nlm-pro/wwwof): [wof.show](https://wof.show) home page
 
 ## Misc
 
